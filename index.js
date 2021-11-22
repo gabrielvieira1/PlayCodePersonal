@@ -1,16 +1,5 @@
-const test = {
-  opa: {
-    eita: {
-      ola: {
-        teste: "Já chegou o disco voador"
-      }
-    }
-  }
-}
-
 function testando() {
-  return 'Eita bixiga';
+  return 'Teste Gabriel';
 }
 
 console.log(testando());
-console.log(test.opa.eita.ola.teste);
