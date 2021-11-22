@@ -18,7 +18,7 @@ $ git clone https://github.com/gabrielvieira1/PlayCodePessoal.git
 $ cd PlayCodePessoal
 
 # Run
-$ npm install nodemon@latest --save-dev
+$ npm install
 
 $ npm run dev
 ```
